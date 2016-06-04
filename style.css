@@ -1,0 +1,10 @@
+.todoApp{
+    background-color: lightgray;
+    width: 300px;
+}
+.addTodo{
+    padding: 10px;
+}
+.todoList{
+    margin-left: 10px;
+}
